@@ -1,1 +1,0 @@
-# InterfazHMI_DWIN
