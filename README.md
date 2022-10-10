@@ -61,3 +61,6 @@ El código está estructurado por capas, a continuación las nombro:
     La capa de utilidad es una capa transversal a todas las capas anteriormente mencionadas, y en este caso, contiene la definición de un tipo de estructura para el uso
     de un buffer circular. 
     
+    
+ ## Gift 
+ ![alt_text](https://github.com/MtinDuarte/InterfazHMI_DWIN/blob/master/Videos/screenGift.gif)
